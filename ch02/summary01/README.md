@@ -298,4 +298,6 @@ $ echo ${OS_TYPE:+redhat}  # 변수 OS_TYPE이 설정되어 있으므로 "redhat
                            # redhat 출력됨 
 ```
 
+(생략)
+
 ---
