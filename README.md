@@ -23,7 +23,7 @@
 
 ## 🚩 정리한 문서 목록
 
-### 📖 Basics of Deep Learning
+### 📖 쉘 스크립트 기초 문법
 
 - [쉘 스크립트 생성, 변수 사용](https://github.com/erectbranch/Shell_Script_Basic/tree/master/ch02/summary01)
 
@@ -32,6 +32,8 @@
   > 중괄호 사용하기, 확장 변경자
 
 - [연산자, 정규 표현식](https://github.com/erectbranch/Shell_Script_Basic/tree/master/ch02/summary02)
+
+  > 정규 표현식: POSIX 기본 및 확장 문법, POSIX 문자 클래스
 
 </br>
 
