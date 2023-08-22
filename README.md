@@ -8,7 +8,7 @@
 </h1>
   
 <b>장현정 저</b></br>
-한빛미디어 · 2021년 2월 24일 출시</b>
+한빛미디어 · 2021년 2월 24일 출시</b></br>
 [[github](https://github.com/naleejang/Easy-Shell-Script)]</b>
 
 </div>
@@ -18,6 +18,20 @@
 - **쉘 스크립트를 파악한다.**
 
   > 다양한 쉘 스크립트를 정리하고 시스템 구축, 보안, 모니터링, 클라우드 운영 등에서의 쉘 스크립트 활용을 파악한다.
+
+</br>
+
+## 🚩 정리한 문서 목록
+
+### 📖 Basics of Deep Learning
+
+- [쉘 스크립트 생성, 변수 사용](https://github.com/erectbranch/Shell_Script_Basic/tree/master/ch02/summary01)
+
+  > 쉘 스크립트 생성하기, 변수(환경 변수/사용자 변수, 전역 변수/지역 변수)
+
+  > 중괄호 사용하기, 확장 변경자
+
+- [연산자, 정규 표현식](https://github.com/erectbranch/Shell_Script_Basic/tree/master/ch02/summary02)
 
 </br>
 
